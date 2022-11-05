@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasi Kumar.P</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-- 🔭 I’m currently working on IBM project [Plasma Donor Appplication](https://github.com/IBM-EPBL/IBM-Project-46840-1660793011)
+- 🔭 I’m currently working on IBM project.
 
 - 🌱 I’m currently learning **full stack- back end,,**
 
